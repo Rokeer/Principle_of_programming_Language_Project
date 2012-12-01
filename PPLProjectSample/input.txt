@@ -1,0 +1,7 @@
+{ 
+basic a;
+basic b;
+a=2;
+while(true)
+a=a+2;
+}

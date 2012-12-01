@@ -1,0 +1,12 @@
+{ 
+basic a;
+basic b;
+a=1+2;
+while(!b)
+{
+a=a+1;
+b=b+1;
+}
+if(a=1)
+a=3;
+}
